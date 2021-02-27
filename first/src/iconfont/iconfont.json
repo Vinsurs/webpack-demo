@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776987",
+      "name": "notification",
+      "font_class": "icon-test",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "8777166",
+      "name": "email",
+      "font_class": "icon-test1",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "8777250",
+      "name": "user",
+      "font_class": "icon-test2",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    }
+  ]
+}
